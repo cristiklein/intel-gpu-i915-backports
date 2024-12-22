@@ -30,9 +30,9 @@ We have dependencies on the following packages
 ```
 $ sudo apt install dkms make debhelper devscripts build-essential flex bison mawk
 ```
-For DKMS modules, we need to install `dkms` package too.
+For DKMS modules, we need to install `dh-dkms` package too.
 ```
-$ sudo apt install dkms
+$ sudo apt install dh-dkms
 ```
 
 ## Dependencies
